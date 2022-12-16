@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:6005/movie";
+const baseURL = "https://639bf0a864fcf9c11ca6d926.mockapi.io/movie";
 
 export const get = async (url) => {
     try {
